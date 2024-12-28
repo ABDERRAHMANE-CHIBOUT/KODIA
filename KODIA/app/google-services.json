@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "555809918919",
+    "project_id": "fixmaster-194a4",
+    "storage_bucket": "fixmaster-194a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555809918919:android:1badcc87d4a2efcab893e2",
+        "android_client_info": {
+          "package_name": "com.koDea.fixMasterClient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXnXqFeeV6Jx-w5povHGpAjIVdkjy7Zrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555809918919:android:5af0d2599ae94724b893e2",
+        "android_client_info": {
+          "package_name": "com.kodea.FixMaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXnXqFeeV6Jx-w5povHGpAjIVdkjy7Zrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

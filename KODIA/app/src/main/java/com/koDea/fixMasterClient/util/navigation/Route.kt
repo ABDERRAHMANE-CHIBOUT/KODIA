@@ -1,0 +1,33 @@
+package com.koDea.fixMasterClient.util.navigation
+
+sealed class Route(val route : String) {
+    object OnBoardingScreen : Route("onBoardingScreen")
+    object HomeScreen : Route("homeScreen")
+    object AppStartNavigation : Route("appStartNavigation")
+    object BrowseNavigation : Route("browseNavigation")
+    object BrowseNavigatorScreen : Route("browseNavigatorScreen")
+    object AuthNavigation : Route("authNavigation")
+    object BookingScreen : Route("Booking")
+    object SettingsScreen : Route("Settings")
+    object SearchScreen : Route("Search")
+    object NotificationScreen : Route("Notification")
+    object CategoryListScreen : Route("Category")
+    object ProProfileScreen : Route("Pro profile")
+
+    object SignInScreen : Route("signInScreen")
+    object SignUpScreen : Route("signUpScreen")
+    object PasswordReset : Route("passwordReset")
+    object StartBrowse : Route("startBrowse")
+    object RequestScreen : Route("Request")
+    object AddTaskScreen : Route("Add Job")
+    object SearchOnMapScreen : Route("Search on Map")
+    object ProfileSettingScreen : Route("Profile")
+    object FavouriteHandyManScreen : Route("Favourite HandyMan")
+    object SavedHandyManScreen : Route("Saved HandyMan")
+    object AccountScreen : Route("Account")
+    object LanguageScreen : Route("Language")
+    object ThemeScreen : Route("Theme")
+    object NotificationSettingsScreen : Route("Notification Settings")
+    object JobDetailsScreen: Route("Job Details")
+    object ChatScreen : Route("Chat Screen")
+}

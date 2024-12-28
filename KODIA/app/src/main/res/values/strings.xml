@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FixMaster</string>
+    <string name="Next" translatable="false">Next</string>
+    <string name="Back" translatable="false">Back</string>
+    <string name="Started" translatable="false">Get started</string>
+    <string name="SignIn">Sign In</string>
+    <string name="WelcomeBack">Welcome back! Please enter your details</string>
+    <string name="PhoneNumber">Phone number</string>
+    <string name="Password">Password</string>
+    <string name="ForgotPassword">forgot password?</string>
+    <string name="DontHaveAccount">Don\'t have an account? </string>
+    <string name="SignUp">Sign Up</string>
+    <string name="HireNow">Hire Now</string>
+    <string name="mapbox_access_token" translatable="false" >pk.eyJ1Ijoic29oZWliLW91eiIsImEiOiJjbHVteHVsanAwNDZlMmpvMWk3MWxmcXdnIn0.CfIJlcaXLhA7z0yFPgYJHQ</string>
+</resources>
